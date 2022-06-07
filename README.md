@@ -1,5 +1,5 @@
 # Trabalho Semestral de LPOO2
-Este é o trabalho final da matéria de Linguagem de Programação Orientada a Objetos 1 do curso Análise e Desenvolvimento de Sistemas da UFPR.
+Este é o trabalho final da matéria de Linguagem de Programação Orientada a Objetos 2 do curso Análise e Desenvolvimento de Sistemas da UFPR.
 
 ## Enunciado
 Um banco resolveu aprimorar os seus produtos financeiros, e por conta disso vai alterar o sistema que gerencia as contas de seus clientes. O novo sistema precisa ser em Java com interface SWING e seguindo o paradigma orientado a objetos.
